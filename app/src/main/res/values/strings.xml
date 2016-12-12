@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Google Search</string>
+    <string name="search_string_hint">Enter search string</string>
+    <string name="str_btn_search">Search</string>
 </resources>
